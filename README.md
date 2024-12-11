@@ -27,7 +27,7 @@ This repository contains all the code, insights, and resources I used to approac
 
 ### 📊 **Results**
 
-Achieved a **Top 22% ranking** on the Kaggle leaderboard. My final model employed a CatBoost algorithm, fine-tuned for accuracy and efficiency on unseen data.
+Achieved a **Top 22% ranking** on the Kaggle leaderboard. My final model employed a LGBM algorithm, fine-tuned for accuracy and efficiency on unseen data.
 
 ---
 
